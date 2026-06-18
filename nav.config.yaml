@@ -13,7 +13,7 @@
 gitRepoUrl: https://github.com/DuChen212/nav
 
 # Fork 部署分支
-分支: main
+branch: main
 
 # 默认Fork仓库
 # 仓库必须自己提前创建，如果打算长期使用本软件，建议每个人都创建一个新的仓库作为图片存储
